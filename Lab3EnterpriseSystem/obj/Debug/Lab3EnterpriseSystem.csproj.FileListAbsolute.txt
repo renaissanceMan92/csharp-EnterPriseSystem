@@ -1,0 +1,9 @@
+C:\Users\timho\Source\Repos\Lab3EnterpriseSystem\Lab3EnterpriseSystem\bin\Debug\Lab3EnterpriseSystem.exe.config
+C:\Users\timho\Source\Repos\Lab3EnterpriseSystem\Lab3EnterpriseSystem\bin\Debug\Lab3EnterpriseSystem.exe
+C:\Users\timho\Source\Repos\Lab3EnterpriseSystem\Lab3EnterpriseSystem\bin\Debug\Lab3EnterpriseSystem.pdb
+C:\Users\timho\Source\Repos\Lab3EnterpriseSystem\Lab3EnterpriseSystem\obj\Debug\Lab3EnterpriseSystem.csprojAssemblyReference.cache
+C:\Users\timho\Source\Repos\Lab3EnterpriseSystem\Lab3EnterpriseSystem\obj\Debug\Lab3EnterpriseSystem.MediaShop.resources
+C:\Users\timho\Source\Repos\Lab3EnterpriseSystem\Lab3EnterpriseSystem\obj\Debug\Lab3EnterpriseSystem.Properties.Resources.resources
+C:\Users\timho\Source\Repos\Lab3EnterpriseSystem\Lab3EnterpriseSystem\obj\Debug\Lab3EnterpriseSystem.csproj.GenerateResource.cache
+C:\Users\timho\Source\Repos\Lab3EnterpriseSystem\Lab3EnterpriseSystem\obj\Debug\Lab3EnterpriseSystem.exe
+C:\Users\timho\Source\Repos\Lab3EnterpriseSystem\Lab3EnterpriseSystem\obj\Debug\Lab3EnterpriseSystem.pdb
